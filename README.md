@@ -10,5 +10,5 @@
 
 算法效果展示图如下:
 
-![grg20_result](https://tuchuang-dong001.oss-cn-beijing.aliyuncs.com/picture/grg20.gif)
+![grg20_result](dominating_graph/grg20.gif)
 
