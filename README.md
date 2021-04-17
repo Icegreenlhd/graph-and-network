@@ -12,3 +12,10 @@
 
 ![grg20_result](imgs/grg20.gif)
 
+## two coloring
+
+问题介绍： 给KN(N边完全图)的边上色使其内单色K4数目尽可能少
+
+算法效果展示图如下：
+
+![full10_result](imgs/Full10.gif)
